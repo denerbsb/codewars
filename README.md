@@ -7,5 +7,5 @@ This project is dedicated to push Codewards daily.
 
 **Tech used:** JavaScript
 
-I will be taking daily challenges from Codewards using JavaScript, my main goal is to train and see my evolution throught the platform. The code will be inside the respective Codewars leve (8 Kyu, 7 Kyu, etc...)
+I will be taking daily challenges from Codewards using JavaScript, my main goal is to train and see my evolution throught the platform. The code will be inside the the folder with the respective Codewars level (8 Kyu, 7 Kyu, etc...)
 
