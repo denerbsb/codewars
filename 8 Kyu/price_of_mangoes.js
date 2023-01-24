@@ -15,3 +15,8 @@ function mango(quantity, price) {
   quantity -= Math.floor(quantity / 3);
   return quantity * price;
 }
+
+mango(2, 3);
+mango(3, 3);
+mango(9, 5);
+mango(5, 3);
