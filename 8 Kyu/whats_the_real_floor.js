@@ -8,6 +8,7 @@ With the 1st floor being replaced by the ground floor and the 13th floor being r
 Basements (negatives) stay the same as the universal level.
 */
 
+//My solution
 function getRealFloor(number) {
   if (number > 0 && number <= 13) {
     return number - 1;
