@@ -20,7 +20,6 @@ countSmileys([';]', ':[', ';*', ':$', ';-D']); // should return 1;
 */
 
 //My solution
-
 function countSmiles(arr) {
   let newArr = [];
 
