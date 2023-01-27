@@ -1,5 +1,5 @@
 # Codewars
-This project is dedicated to push Codewards daily.
+This project is dedicated to push Codewards challenges daily.
 
 **Link to Codewards profile:** https://www.codewars.com/users/denerbsb
 
