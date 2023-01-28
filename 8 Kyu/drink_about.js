@@ -35,4 +35,14 @@ function peopleWithAgeDrink(old) {
   }
 }
 
-console.log(wichDrink(13));
+console.log(peopleWithAgeDrink(13));
+
+//Solution 2
+function peopleWithAgeDrink2(age) {
+  if (age < 14) return 'drink toddy';
+  if (age < 18) return 'drink coke';
+  if (age <= 14) return 'drink beer';
+  if (age > 21) return 'drink whisky';
+}
+
+console.log(peopleWithAgeDrink2(23));
