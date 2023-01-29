@@ -11,8 +11,8 @@ uniqueInOrder([1,2,2,3,3])       == [1,2,3]
 */
 
 //My solution
-var uniqueInOrder = function (arr) {
-  let strArr = Array.isArray(arr) ? arr : arr.split('');
+var uniqueInOrder = function (iterable) {
+  let strArr = Array.isArray(iterable) ? iterable : iterable.split('');
   let uniqueArr = [];
   strArr.forEach((element, idx) => {
     if (strArr[idx] !== strArr[idx + 1]) {
