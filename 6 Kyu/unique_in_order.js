@@ -24,4 +24,3 @@ var uniqueInOrder = function (arr) {
 };
 
 console.log(uniqueInOrder('AAAABBBCCDAABBB'));
-console.log(uniqueInOrder('ABBCcAD'));
