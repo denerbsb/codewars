@@ -16,3 +16,5 @@ replace("ABCDE") === "!BCD!"
 function replaceVowel(str) {
   return str.replace(/[aeoiu]/gi, '!');
 }
+
+console.log(replaceVowel('hi! hi! hiiiiii!'));
