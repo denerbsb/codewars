@@ -11,6 +11,7 @@ filter_list([1,2,'aasf','1','123',123]) == [1,2,123]
 
 //My solution
 function filter_list(l) {
+  //Returns only the element that has the value type number
   return l.filter((element) => typeof element === 'number');
 }
 
