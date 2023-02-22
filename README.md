@@ -1,5 +1,5 @@
 # Codewars
-This project is dedicated to push Codewards challenges daily.
+This project is dedicated to push Codewards challenges in my free time.
 
 **Link to Codewards profile:** https://www.codewars.com/users/denerbsb
 
@@ -7,5 +7,5 @@ This project is dedicated to push Codewards challenges daily.
 
 **Tech used:** JavaScript
 
-I will be taking daily challenges from Codewards using JavaScript, my main goal is to train and see my evolution throught the platform. The code will be inside the the folder with the respective Codewars level (8 Kyu, 7 Kyu, etc...)
+I will push challenges from Codewards using JavaScript, my main goal is to train and see my evolution throught the platform. The code will be inside the the folder with the respective Codewars level (8 Kyu, 7 Kyu, etc...)
 
